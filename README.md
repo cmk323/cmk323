@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/91640554/165887049-72b63617-05b3-45ea-9f08-6872b6e4903b.png)
 
-- 🌸 I’m a biochemist by training specializing in computational structural biology. I am interested in machine learning applications for computer-aided drug discovery.
+- 🌸 I’m a biochemist by training specializing in bioinformatics & computational biology. I am interested in machine learning applications for computer-aided drug discovery.
 - 🌸 I’m currently working on visualizing mutation data from cBioPortal for Cancer Genomics. 
 - 🌸 I’m looking to collaborate on bioinformatics and chemoinformatics projects. I especially enjoy working with those from more computational backgrounds to compliment my experimental wet lab background.
 - 🌸 You can reach me at cmkingsbury323@gmail.com.
